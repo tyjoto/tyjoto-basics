@@ -130,5 +130,5 @@ dmypy.json
 
 
 ## Adding bash .swp/.swo
-.swp
-.swo
+*.swp
+*.swo
